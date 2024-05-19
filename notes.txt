@@ -1,0 +1,9 @@
+· Node.js is a js runtime, uses the v8 engine and is used for developing server-side and networking apps/apis
+
+· nodejs is non-blocking, that is, doesn't wait for i/o operation to complete and instead using asynchronous paradigms, it allows 
+  it to continue the program's execution while the i/o is fetched/transmitted. This is called an event loop 
+
+· Since nodejs is single-threaded(event loop) it isn't suitable for CPU intensive operations 
+
+· The global object is called "global" instead of "window", the DOM doesn't exist but we have process which represents the current 
+  process being run 

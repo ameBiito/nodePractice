@@ -1,0 +1,4 @@
+· npm init is used to initialize a directory 
+
+· Inside package.json we can insert scripts to automate console execution. Once written, run them using "npm start" if it is called start,
+  "npm run scriptName" if the name is anything else  
